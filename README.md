@@ -2,10 +2,10 @@
 aria2 with airang web ui
 
 ## Brief Introduction
-Use Apline:latest as base image, full image only **18Mb**.
-You can edit aria2 config file out of the image.
-Use Aria-Ng as aria2 web ui, it seems much more beautiful.
-Use darkhttpd as http server, it's very small(Only 36K after complied) and easy to use.
+* Use Apline:latest as base image, full image only **18Mb**.
+* You can edit aria2 config file out of the image.
+* Use Aria-Ng as aria2 web ui, it seems much more beautiful.
+* Use darkhttpd as http server, it's very small(Only 36K after complied) and easy to use.
 
 ## Build
 ```
