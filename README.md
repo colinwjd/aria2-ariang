@@ -1,5 +1,5 @@
-# aria2-ariang
-aria2 with airang web ui
+# Aria2-AriaNg
+Aria2 with Aira-Ng web UI.
 
 ## Brief Introduction
 * Use Apline:latest as base image, full image only **18Mb**.
