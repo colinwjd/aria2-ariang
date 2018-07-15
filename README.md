@@ -18,7 +18,7 @@ docker build -t colinwjd/aria2-ariang .
 ```
 
 ## Install
-1. Mount `/DOWNLOAD_DIR` to `/aria2/downloads` and `/CONFIG_DIR` to `/aria2/conf`. When starting container, it will create  `aria2.conf` file with default config.
+1. Mount `/DOWNLOAD_DIR` to `/aria2/downloads` and `/CONFIG_DIR` to `/aria2/conf`. When starting container, it will create  `aria2.conf` file with default settings.
 2. Mapping ports:
   * 6800 for aira2 service
   * 80 for Aria-Ng http service
