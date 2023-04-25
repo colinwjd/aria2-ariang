@@ -23,7 +23,7 @@ docker build -t colinwjd/aria2-ariang .
   * 6800 for aira2 service
   * 80 for Aria-Ng http service
   * 8080 for downloads directory http service
-3. Set your secret code use "SECRET" variable, this will append `rpc-secret=xxx` to aira2.conf file.
+3. Set your secret code use "SECRET" variable, this will append `rpc-secret=xxx` to aria2.conf file.
 
 Run command like below(You may need to change the ports).
 ```
